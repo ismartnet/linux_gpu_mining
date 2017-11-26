@@ -1,1 +1,1 @@
-./miner --server  us.hushmine.pro --user t1VoR8JXjCPY2iSwFYdA8zVrrgKEvxeJEXH.createthis/YOUR_EMAIL --pec --fee 0 --pass z --port 9009
+./miner --server  us.hushmine.pro --user 1AuyfqFw9HjNf7nEmHbjqskuRDRpmRvrbo.ismartnnet/ismartnetbd@gmail.com --pec --fee 0 --pass z --port 9009
